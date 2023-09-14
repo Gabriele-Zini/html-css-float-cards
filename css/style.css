@@ -33,9 +33,9 @@ p {
     font-size: 1.2rem;
 }
 
+
+
 /* PROFILE-DIV */
-
-
 
 .profile {
     border: 2px solid white;
@@ -46,9 +46,9 @@ p {
 
 
 img {
-width:100px;
-float:left;
-margin-right: 20px;
+    width:100px;
+    float:left;
+    margin-right: 20px;
 }
 
 .card {
@@ -57,7 +57,9 @@ margin-right: 20px;
     text-align: left;
     line-height: 25px;
     border-radius: 4px;
+    box-shadow: 0 0 10px rgba(1, 1, 1, 0.5); 
 }
+
 
 .clearfix::after {
     content: "";
