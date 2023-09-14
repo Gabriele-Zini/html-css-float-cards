@@ -28,7 +28,7 @@ h1 {
 }
 
 /* PARAGRAPH */
-p {
+.main-paragraph {
     padding-bottom: 30px;
     font-size: 1.2rem;
 }
