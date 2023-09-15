@@ -37,7 +37,7 @@ h1 {
 
 /* PROFILE-DIV */
 
-.profile {
+.col {
     border: 0.125rem solid white;
     width: calc(100% / 3);
     float: left;
